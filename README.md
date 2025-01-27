@@ -1,4 +1,4 @@
-# registrationapp
+# Event Registration App
 
 A new Flutter project.
 
